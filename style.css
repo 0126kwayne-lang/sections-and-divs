@@ -1,5 +1,5 @@
 /* Section */
-.projections-section {
+.projects-section {
     background-color: #dbeafe;
     padding: 30px;
     margin: 20px 0;
@@ -8,13 +8,13 @@
 
 }
 
-.projections-container {
+.projects-container {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
 }
 
-.projection-box {
+.projects-box {
     background-color: #bbf7d0;
     padding: 20px;
     border: 1px solid #2563eb;
@@ -22,11 +22,11 @@
     flex: 1 1 180px;
 }
 
-.projection-box h3 {
+.projects-box h3 {
     margin-top: 0;
     color: #2563eb;
 }
 
-.projection-box p {
+.projects-box p {
     color: #1e3a8a;
 }
