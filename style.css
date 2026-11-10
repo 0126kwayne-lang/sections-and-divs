@@ -9,13 +9,13 @@
 
 }
 
-.projects-container {
+.project-container {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
 }
 
-.projects-box {
+.project-box {
     background-color: #bbf7d0;
     padding: 20px;
     border: 2px solid #2563eb;
@@ -23,11 +23,11 @@
     flex: 1 1 180px;
 }
 
-.projects-box h3 {
+.project-box h3 {
     margin-top: 0;
     color: #2563eb;
 }
 
-.projects-box p {
+.project-box p {
     color: #1e3a8a;
 }
