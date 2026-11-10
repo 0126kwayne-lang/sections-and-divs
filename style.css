@@ -1,3 +1,4 @@
+
 /* Section */
 .projects-section {
     background-color: #dbeafe;
@@ -17,8 +18,8 @@
 .projects-box {
     background-color: #bbf7d0;
     padding: 20px;
-    border: 1px solid #2563eb;
-    border-radius: 10px;
+    border: 2px solid #2563eb;
+    border-radius: 8px;
     flex: 1 1 180px;
 }
 
